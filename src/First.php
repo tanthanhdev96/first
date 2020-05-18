@@ -8,4 +8,9 @@ class First
     {
         return 'Hi ' . $sName . '! How are you doing today?';
     }
+
+    public function goodBye(String $sName)
+    {
+    	return 'Good bye ' . $sName;
+    }
 }
