@@ -1,0 +1,19 @@
+{
+    "name": "tanthanhdev96/first",
+    "description": "My first package is published",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Tan Thanh",
+            "email": "tanthanhdev96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Tanthanhdev96\\First\\": "src/"
+        }
+    },
+    "require": {}
+}
